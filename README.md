@@ -1,1 +1,1 @@
-# poker-chip-race
+# Winamax Poker Chip Race Challenge
